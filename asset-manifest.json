@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/labs-fullstack/static/css/main.4b134f68.css",
+    "main.js": "/labs-fullstack/static/js/main.6d44e7a0.js",
+    "static/js/787.d828ca06.chunk.js": "/labs-fullstack/static/js/787.d828ca06.chunk.js",
+    "static/media/web.jpg": "/labs-fullstack/static/media/web.acffbeef13ff19d212f5.jpg",
+    "index.html": "/labs-fullstack/index.html",
+    "main.4b134f68.css.map": "/labs-fullstack/static/css/main.4b134f68.css.map",
+    "main.6d44e7a0.js.map": "/labs-fullstack/static/js/main.6d44e7a0.js.map",
+    "787.d828ca06.chunk.js.map": "/labs-fullstack/static/js/787.d828ca06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b134f68.css",
+    "static/js/main.6d44e7a0.js"
+  ]
+}
